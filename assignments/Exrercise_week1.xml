@@ -1,0 +1,22 @@
+<LibraryBooks>
+    <catalogue category="Technical">
+        <ISBN>12345<ISBN>
+        <title>Book1<title>
+        <author>Author1<author>
+    <catalogue>
+    <catalogue category="Technical">
+        <ISBN>23456<ISBN>
+        <title>Book2<title>
+        <author>Author2<author>
+    <catalogue>  
+    <catalogue category="Cookery">
+        <ISBN>34567<ISBN>
+        <title>Book3<title>
+        <author>Author3<author>
+     <catalogue>
+     <catalogue category="Cookery">
+        <ISBN>45678<ISBN>
+        <title>Book4<title>
+        <author>Author4<author>
+     <catalogue>
+<LibraryBooks>
